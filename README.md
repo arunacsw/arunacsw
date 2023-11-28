@@ -3,6 +3,7 @@
 edited by aruna
 
 edit in feature/add-new branch
+edit in feature and commit and push using cmd
 
 <!--
 **arunacsw/arunacsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
