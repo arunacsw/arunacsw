@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi Aruna 👋
+
+edited by aruna 
 
 <!--
 **arunacsw/arunacsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ it was edited!
 
 Here are some ideas to get you started:
 
